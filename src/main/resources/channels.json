@@ -1,0 +1,38 @@
+[
+  {
+    "channelId": "ch1",
+    "channelName": "Baking Mastery",
+    "subscriberCount": 89000,
+    "country": "US"
+  },
+  {
+    "channelId": "ch2",
+    "channelName": "Travel Explorer",
+    "subscriberCount": 120000,
+    "country": "UK"
+  },
+  {
+    "channelId": "ch3",
+    "channelName": "Kinder Lernen",
+    "subscriberCount": 4500,
+    "country": "DE"
+  },
+  {
+    "channelId": "ch4",
+    "channelName": "FitLife",
+    "subscriberCount": 30000,
+    "country": "US"
+  },
+  {
+    "channelId": "ch5",
+    "channelName": "Tech World",
+    "subscriberCount": 250000,
+    "country": "US"
+  },
+  {
+    "channelId": "ch6",
+    "channelName": "Indie Creator Lab",
+    "subscriberCount": 1200,
+    "country": null
+  }
+]
