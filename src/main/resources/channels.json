@@ -1,38 +1,134 @@
 [
   {
-    "channelId": "ch1",
-    "channelName": "Baking Mastery",
+    "channelId": "UC38IQsAvIsxxjztdMZQtwHA",
+    "channelName": "Bread Lab",
     "subscriberCount": 89000,
     "country": "US"
   },
   {
-    "channelId": "ch2",
-    "channelName": "Travel Explorer",
-    "subscriberCount": 120000,
-    "country": "UK"
+    "channelId": "UCx1Hf7DjQrFKpKlRzN9JzPw",
+    "channelName": "Bergwelt Tirol",
+    "subscriberCount": 34500,
+    "country": "AT"
   },
   {
-    "channelId": "ch3",
-    "channelName": "Kinder Lernen",
-    "subscriberCount": 4500,
+    "channelId": "UCqz8vBz8L2pT9RyVxLwQNkA",
+    "channelName": "Tech Reviews Daily",
+    "subscriberCount": 1240000,
+    "country": "US"
+  },
+  {
+    "channelId": "UCk9P8sBnY5xqRxRzTNuJjAg",
+    "channelName": "Mama's Kitchen",
+    "subscriberCount": 720,
+    "country": "US"
+  },
+  {
+    "channelId": "UC4LzPzL4j8nQwR2hT9KxYpQ",
+    "channelName": "Wiener Kaffeehaus",
+    "subscriberCount": 12800,
+    "country": "AT"
+  },
+  {
+    "channelId": "UC7vN3RxKzL8pY2hQjT4WnBg",
+    "channelName": "Travel With Sarah",
+    "subscriberCount": 456000,
+    "country": "GB"
+  },
+  {
+    "channelId": "UCmH9pY3xLwQ2nRzT8KvBjXg",
+    "channelName": "Le Petit Chef",
+    "subscriberCount": 67000,
+    "country": "FR"
+  },
+  {
+    "channelId": "UCp4N8jKzLwQ9xY2hRzT5VbA",
+    "channelName": "Garten & Grün",
+    "subscriberCount": 23400,
     "country": "DE"
   },
   {
-    "channelId": "ch4",
-    "channelName": "FitLife",
-    "subscriberCount": 30000,
+    "channelId": "UCb7Y3xLwQ2nRzT8KvBjPmHg",
+    "channelName": "Fitness Pro",
+    "subscriberCount": 890000,
     "country": "US"
   },
   {
-    "channelId": "ch5",
-    "channelName": "Tech World",
-    "subscriberCount": 250000,
+    "channelId": "UCt2hRzL8pY2hQjT4WnBjXkQ",
+    "channelName": "Kids Fun Time",
+    "subscriberCount": 2300000,
     "country": "US"
   },
   {
-    "channelId": "ch6",
-    "channelName": "Indie Creator Lab",
-    "subscriberCount": 1200,
-    "country": null
+    "channelId": "UCw9N3RxKzL8pY2hQjT4VnBp",
+    "channelName": "Salzburger Geschichten",
+    "subscriberCount": 8900,
+    "country": "AT"
+  },
+  {
+    "channelId": "UCe5pY3xLwQ2nRzT8KvBjMcD",
+    "channelName": "DIY Home Projects",
+    "subscriberCount": 156000,
+    "country": "CA"
+  },
+  {
+    "channelId": "UCr8N8jKzLwQ9xY2hRzT5XnE",
+    "channelName": "Hamburg Hafen TV",
+    "subscriberCount": 4200,
+    "country": "DE"
+  },
+  {
+    "channelId": "UCi3Y3xLwQ2nRzT8KvBjNqRf",
+    "channelName": "Cooking with Marco",
+    "subscriberCount": 78000,
+    "country": "IT"
+  },
+  {
+    "channelId": "UCo6hRzL8pY2hQjT4WnBjPkSt",
+    "channelName": "Mountain Bike Channel",
+    "subscriberCount": 245000,
+    "country": "US"
+  },
+  {
+    "channelId": "UCu4N3RxKzL8pY2hQjT4WrTu",
+    "channelName": "Auto Werkstatt",
+    "subscriberCount": 19500,
+    "country": "DE"
+  },
+  {
+    "channelId": "UCa7pY3xLwQ2nRzT8KvBjQsVw",
+    "channelName": "Yoga with Lisa",
+    "subscriberCount": 340000,
+    "country": "GB"
+  },
+  {
+    "channelId": "UCl9N8jKzLwQ9xY2hRzT5YbXy",
+    "channelName": "Gaming Galaxy",
+    "subscriberCount": 1890000,
+    "country": "US"
+  },
+  {
+    "channelId": "UCs1Y3xLwQ2nRzT8KvBjRpZaB",
+    "channelName": "Wein & Genuss",
+    "subscriberCount": 15600,
+    "country": "AT"
+  },
+  {
+    "channelId": "UCd5hRzL8pY2hQjT4WnBjSnAcD",
+    "channelName": "Photography Pro",
+    "subscriberCount": 98000,
+    "country": "US"
+  },
+  {
+    "channelId": "UCf2N3RxKzL8pY2hQjT4WeBdE",
+    "channelName": "Babys erste Jahre",
+    "subscriberCount": 5600,
+    "country": "DE"
+  },
+  {
+    "channelId": "UCh8pY3xLwQ2nRzT8KvBjTqCfG",
+    "channelName": "Berlin Street Food",
+    "subscriberCount": 67800,
+    "country": "DE"
   }
 ]
