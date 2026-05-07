@@ -3,7 +3,6 @@ package com.example.placementSelector.repository;
 import com.example.placementSelector.model.entity.Channel;
 import com.example.placementSelector.model.entity.Video;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import jakarta.annotation.PostConstruct;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

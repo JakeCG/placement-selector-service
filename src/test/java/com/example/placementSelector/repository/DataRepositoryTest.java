@@ -30,19 +30,19 @@ class DataRepositoryTest {
 	
 	@Test
 	void shouldContainExpectedChannel() {
-		Channel channel = repository.getChannelMap().get("ch1");
+		Channel channel = repository.getChannelMap().get("UC38IQsAvIsxxjztdMZQtwHA");
 		
 		assertNotNull(channel);
-		assertEquals("Baking Mastery", channel.getChannelName());
+		assertEquals("Bread Lab", channel.getChannelName());
 	}
 	
 	@Test
 	void shouldContainVideosLinkedToChannels() {
 		Video video = repository.getVideos().stream()
-							  .filter(v -> v.getVideoId().equals("vid1"))
+							  .filter(v -> v.getVideoId().equals("lBDdz1C5Jau"))
 							  .findFirst()
 							  .orElseThrow();
 		
-		assertEquals("ch1", video.getChannelId());
+		assertEquals("UC38IQsAvIsxxjztdMZQtwHA", video.getChannelId());
 	}
 }
